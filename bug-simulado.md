@@ -1,2 +1,3 @@
-# ⚠️ ARQUIVO COM BUG
-senha_banco = "1234"  ← isso NUNCA deve ir ao repositório!
+# Arquivo removido por segurança
+Conteúdo sensível foi removido por engano.
+Use variáveis de ambiente para credenciais!
